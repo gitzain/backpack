@@ -1,7 +1,5 @@
 # BackPack
-BackPack backs up your data, using incremental backups to only store what's changed, saving space while ensuring you have a complete history of your files.
-
-Secure Your Data, Lighten Your Load. 
+BackPack is a simple script that backs up your data in a space efficent way. Secure Your Data, Lighten Your Load. 
 
 
 ## Table of content
@@ -17,6 +15,8 @@ Secure Your Data, Lighten Your Load.
 
 ## Motivation
 Sick of bloated backup software and confusing interfaces? BackPack was born out of frustration. I built this simple script using rsync to automate daily backups, keeping your data safe and your mind clear.
+
+BackPack backs up your data, using incremental backups to only store what's changed, saving space while ensuring you have a complete history of your files.
 
 
 ## Installation & Usage
