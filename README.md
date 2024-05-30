@@ -1,7 +1,7 @@
 # BackPack
-Secure Your Data, Lighten Your Load. 
-
 BackPack backs up your data, using incremental backups to only store what's changed, saving space while ensuring you have a complete history of your files.
+
+Secure Your Data, Lighten Your Load. 
 
 
 ## Table of content
