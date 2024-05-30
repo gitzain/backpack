@@ -3,16 +3,14 @@ Secure Your Data, Lighten Your Load. BackPack backs up your data, using incremen
 
 
 ## Table of content
-- [BackPack](#backpack)
-  - [Table of content](#table-of-content)
-  - [Motivation](#motivation)
-  - [Installation \& Usage](#installation--usage)
+- [Motivation](#motivation)
+- [Installation \& Usage](#installation--usage)
     - [Installation](#installation)
     - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [History](#history)
-  - [Credits](#credits)
-  - [License](#license)
+- [Contributing](#contributing)
+- [History](#history)
+- [Credits](#credits)
+- [License](#license)
 
 
 ## Motivation
